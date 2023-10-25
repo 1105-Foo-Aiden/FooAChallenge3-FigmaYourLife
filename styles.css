@@ -8,7 +8,7 @@
 }
 b
 {
-    font-weight: 490;
+    font-weight: 500;
 }
 .centerImg
 {
@@ -17,9 +17,13 @@ b
 }
 .largerText
 {
-    font-size: 70px;
+    font-size: 65px;
 }
 p, div 
 {
     font-family: 'Inter', sans-serif;
+}
+.header
+{
+    font-weight: 1000;
 }
