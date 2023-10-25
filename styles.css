@@ -1,0 +1,25 @@
+.centerMe
+{
+   text-align: center;
+}
+.largeTxt
+{
+   font-size: 25px;
+}
+b
+{
+    font-weight: 490;
+}
+.centerImg
+{
+    display: flex;
+    justify-content: center;
+}
+.largerText
+{
+    font-size: 70px;
+}
+p, div 
+{
+    font-family: 'Inter', sans-serif;
+}
